@@ -1,6 +1,6 @@
 ## Desafio NeosDev.IO (Fullstack Jr/Pl)
 
-### Desafio para Trainees NeosDev.io (Consultoria de Desenvolvimento de Produtos de Software e MVPs)
+### Desafio para Fullstack Jr/Pl  NeosDev.io (Consultoria de Desenvolvimento de Produtos de Software e MVPs)
 
 Desenvolver um gerador de links para o WhatsApp que seja funcional, permitindo que ao ser clicado, abra o aplicativo WhatsApp ou WhatsApp Web (dependendo de onde for aberto o link, seja em um smartphone ou navegador web), iniciando uma nova conversa.
 
