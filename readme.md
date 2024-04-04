@@ -34,7 +34,7 @@ Desenvolver um gerador de links para o WhatsApp que seja funcional, permitindo q
 
 - É permitido utilizar o ChatGPT.
 - É permitido qualquer fonte de suporte.
-- 
+  
 ### O que Será Avaliado
 
 - Entrega dentro do prazo.
