@@ -1,4 +1,4 @@
-## Desafio NeosDev.IO (Trainee Frontend)
+## Desafio NeosDev.IO (Fullstack Jr/Pl)
 
 ### Desafio para Trainees NeosDev.io (Consultoria de Desenvolvimento de Produtos de Software e MVPs)
 
@@ -10,24 +10,31 @@ Desenvolver um gerador de links para o WhatsApp que seja funcional, permitindo q
 - Digitar a mensagem no formato de texto simples.
 - Ter um botão "Gerar Link".
 - Exibir o link gerado na tela (ou através de um Alert/Modal) para que o usuário possa copiá-lo.
-- Exibir uma lista de links gerados por aquele usuário (salvos no local storage).
+- Exibir uma lista de links gerados por aquele usuário.
 - Permitir a exclusão dos links salvos.
 
 ### Requisitos Técnicos
 
-- Desenvolver a aplicação utilizando React + JavaScript com Vite.
-- Utilizar hooks.
-- Utilizar State.
-- Utilizar Git e GitHub.
+#### Frontend:
+- Desenvolver a aplicação utilizando React + TypeScript com Vite.
+- Utilizar hooks e state management adequado.
+- Utilizar Git e GitHub para versionamento do código.
 - Ser uma SPA (Single Page Application).
-- Escrever código bem escrito e organizado.
+- Escrever código bem escrito, organizado e testável.
 - Utilizar Material UI ou Tailwind CSS para estilização.
+
+#### Backend:
+- Desenvolver o backend utilizando Django ou FastAPI em Python.
+- Utilizar PostgreSQL como banco de dados para armazenar os links gerados.
+- Implementar 3 APIs: uma para salvar, outra para listar e outra para excluir os links.
+- Utilizar Docker para containerização do backend e do banco de dados.
+- Escrever código limpo e modular, seguindo os princípios RESTful.
 
 ### Regras
 
 - É permitido utilizar o ChatGPT.
-- É permitido buscar ajuda externa (apenas ajuda, sem que façam o trabalho por você).
-
+- É permitido qualquer fonte de suporte.
+- 
 ### O que Será Avaliado
 
 - Entrega dentro do prazo.
@@ -56,10 +63,7 @@ Desenvolver um gerador de links para o WhatsApp que seja funcional, permitindo q
     Substitua "SuaMensagem" pelo texto desejado. Caso a mensagem contenha espaços, 
     substitua-os pelo código "%20".
 
-    
-## Sugestão de Design :
-### Apenas sugestão pode ser feito de outra forma qualquer dentro dos requisitos funcionais :
+### Sugestão de Design :
+#### Apenas sugestão pode ser feito de outra forma qualquer dentro dos requisitos funcionais :
 
 <img width="1170" alt="image" src="https://github.com/freddneos/challenge-neosdev-io/assets/36821426/e0f32e12-1707-435f-bdbc-001995018f68">
-
-
