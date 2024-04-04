@@ -1,4 +1,4 @@
-## Desafio NeosDev.IO
+## Desafio NeosDev.IO (Trainee Frontend)
 
 ### Desafio para Trainees NeosDev.io (Consultoria de Desenvolvimento de Produtos de Software e MVPs)
 
